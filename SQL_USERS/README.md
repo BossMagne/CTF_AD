@@ -32,7 +32,7 @@ Cette commande permet de sélectionner les utilisateurs de la table Countersign 
 
 <img width="605" height="361" alt="Image" src="https://github.com/user-attachments/assets/e8e62893-ada7-404a-a726-77f801a251f0" />
 
-Maintenant, on obtient ue suite de nom ayant un intérêts car ceux-ci ont l'air d'être chiffrés.
+Maintenant, on obtient ue suite de noms ayant un intérêt, car ceux-ci ont l'air d'être chiffrés.
 
 En passant l'un d'eux dans un déchiffreur MD5, le numéro 4, on obtient "fortytwo" :
 
