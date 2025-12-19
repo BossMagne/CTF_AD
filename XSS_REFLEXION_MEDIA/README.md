@@ -15,7 +15,7 @@ Je remarque que la page pourrait être vulnérable à des injections.
 
 Avec burp :
 
- 
+https://github.com/BossMagne/CTF_AD/blob/main/XSS_REFLEXION_MEDIA/IMAGES/Image1.png
 
 
 
