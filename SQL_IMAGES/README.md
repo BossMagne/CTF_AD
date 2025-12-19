@@ -27,7 +27,7 @@ Cette commande va nous permettre de de récupérer les informations des colonnes
 
 Sur le renvoi de la commandes, tout en bas, il y'a notre flag, ou plutôt comme pour l'injeciton SQL précédente, une étape de déchiffrage et de chiffrage en plus :
 
-<img width="605" height="191" alt="Image" src="https://github.com/user-attachments/assets/a34fdec2-77ad-42b9-9401-9cc12bc3d631" />
+<img width="603" height="198" alt="Image" src="https://github.com/user-attachments/assets/d2586178-69c3-4800-ad2b-6fe16d8d98d0" />
 
 Puis on rechiffre en sha256 :
 
