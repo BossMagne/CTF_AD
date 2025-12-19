@@ -23,6 +23,6 @@ On essaye donc d'utiliser des combinaisons de caractères au hasard :
 
 On trouve le Flag :
 
-<img width="605" height="248" alt="Image" src="https://github.com/user-attachments/assets/46187064-b5bb-4318-8be2-571d1d483802" />
+<img width="1693" height="869" alt="Image" src="https://github.com/user-attachments/assets/07342ecc-68a1-410d-bcea-7ca602427563" />
 
 Flag trouvé : 0fbb54bbf7d099713ca4be297e1bc7da0173d8b3c21c1811b916a3a86652724e
