@@ -40,7 +40,7 @@ En passant l'un d'eux dans un déchiffreur MD5, le numéro 4, on obtient "fortyt
 
 Et, en rechiffrant le mot fortytwo en SHA256, on trouve le flag :
 
-<img width="605" height="301" alt="Image" src="https://github.com/user-attachments/assets/ce097fdc-6250-4224-8a6e-66def7ccf849" />
+<img width="1759" height="555" alt="Image" src="https://github.com/user-attachments/assets/9bf62fc5-3abe-423c-8c32-66ed073d83a5" />
 
 Flag trouvé : 10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5
 
