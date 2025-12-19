@@ -22,7 +22,7 @@ Je vais tenter une faille classique avec un : <script>alert("XXS")</script>
 
 Dans burp je remplace le lien par défaut par :
 
-	GET /?page=media&src=<script>alert("XXS")</script>
+--->	GET /?page=media&src=<script>alert("XXS")</script>
 J’envoie la requête :
 Cependant, aucun résultat.
 
